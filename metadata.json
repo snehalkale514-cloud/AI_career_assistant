@@ -1,0 +1,9 @@
+{
+  "name": "AI Career Assistant",
+  "description": "Your AI Mentor for Placements & Career Growth. Personalized roadmaps, ATS resume analysis, skill assessment, and curated placement guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
